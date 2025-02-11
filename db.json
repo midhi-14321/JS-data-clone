@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Saikrishna"
+    },
+    {
+      "name": "Vinay Raju",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Ramu"
+    },
+    {
+      "id": "4",
+      "name": "raki"
+    },
+    {
+      "id": "5",
+      "name": "anand"
+    },
+    {
+      "id": "6",
+      "name": "sai pallavi"
+    },
+    {
+      "id": "7",
+      "name": "Sai Nath"
+    },
+    {
+      "id": "8",
+      "name": "midhilesh"
+    },
+    {
+      "id": "9",
+      "name": "bharath"
+    },
+    {
+      "id": "10",
+      "name": "vamshi"
+    }
+  ]
+}
